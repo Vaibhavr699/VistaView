@@ -1,0 +1,11 @@
+/* Base Tailwind imports - Tailwind v4 */
+@import 'tailwindcss';
+
+/* Custom global styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: rgb(249 250 251);
+  color: rgb(17 24 39);
+}
+
+/* Add any other global styles here */
